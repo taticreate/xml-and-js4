@@ -1,12 +1,12 @@
 Target 2nd product in the list
-/products/product/[1]
+/products/product/[2]
 
 
 Target last product in the list
-/products/product/[3]
+/products/product/[last()]
 
 Target sku attribute of the first product
-/products/product/@[sku=BOS12DDF2]
+/products/product[1]/@sku
 
 Target all products with manufacturer id sjb-pet
-/products/product/@[id=sjb-pet]
+/products/product/@[id='sjb-pet']
