@@ -9,4 +9,4 @@ Target sku attribute of the first product <br />
 /products/product[1]/@sku
 
 Target all products with manufacturer id sjb-pet <br />
-//product/[@id='sjb-pet']
+//product[@id='sjb-pet']
