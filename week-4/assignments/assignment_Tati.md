@@ -15,3 +15,4 @@
 ![image info](assets/3.png)<br/><br/>
 ![image info](assets/4.png)<br/><br/>
 ![image info](output.png)<br/><br/>
+I created an xsl that can retrieve data from xml file, and used http-server to display result. The table columns, rows and column contents is set up according to the directions in step 3. This task required correct usage of 'choose' for testing conditions, as well as 'for-each' and 'value-of' which was a challenge.
