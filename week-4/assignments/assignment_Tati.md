@@ -1,6 +1,5 @@
 
 1. Open week-4/assignments/assignment.xml in your editor
-
 2. Create xsl file and add link to it
 ![image info](assets/1.png)<br/><br/>
 3. Display catalog in the following way
